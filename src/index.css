@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, rgb(22, 22, 24), rgb(251, 85, 14));
+
+}
+
+h1 {
+  font-family: 'Patchy Robots Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Patchy Robots Regular'), url('Patchy Robots.woff') format('woff');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
