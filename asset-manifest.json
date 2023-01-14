@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pokemons-React/static/css/main.b45f5242.css",
+    "main.js": "/Pokemons-React/static/js/main.1f326add.js",
+    "static/js/787.86f9dd6d.chunk.js": "/Pokemons-React/static/js/787.86f9dd6d.chunk.js",
+    "static/media/Patchy Robots.woff": "/Pokemons-React/static/media/Patchy Robots.7b54eb315721c1acf7f3.woff",
+    "index.html": "/Pokemons-React/index.html",
+    "main.b45f5242.css.map": "/Pokemons-React/static/css/main.b45f5242.css.map",
+    "main.1f326add.js.map": "/Pokemons-React/static/js/main.1f326add.js.map",
+    "787.86f9dd6d.chunk.js.map": "/Pokemons-React/static/js/787.86f9dd6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45f5242.css",
+    "static/js/main.1f326add.js"
+  ]
+}
